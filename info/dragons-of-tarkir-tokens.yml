@@ -1,0 +1,18 @@
+---
+object: set
+id: e9bd9e1e-754a-4d8f-a1d1-b9b6f18474c5
+code: tdtk
+name: Dragons of Tarkir Tokens
+uri: https://api.scryfall.com/sets/e9bd9e1e-754a-4d8f-a1d1-b9b6f18474c5
+scryfall_uri: https://scryfall.com/sets/tdtk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdtk&unique=prints
+released_at: '2015-03-27'
+set_type: token
+card_count: 8
+parent_set_code: dtk
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ktk
+block: Khans of Tarkir
+icon_svg_uri: https://svgs.scryfall.io/sets/dtk.svg?1694404800
